@@ -1,6 +1,7 @@
-# Talking Points
+# Typescript Levelup Talk
 
-## Open
+## Fullstack Typescript app in 30 minutes
+
 - Fullstack typescript app
 - Front end: Angular
 - Back end: NodeJS Express
