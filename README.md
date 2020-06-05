@@ -6,7 +6,6 @@
 - Back end: NodeJS Express
 - Monorepo management: NX
 
-
 ## Helpful Links for NX:
 1. [Intro video](https://www.youtube.com/watch?v=mVKMse-gFBI)
 1. [NX Overview](https://nx.dev/angular/cli/overview)
